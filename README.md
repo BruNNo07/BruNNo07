@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, Sou o Brunno Dalla 👋
 
-<!--
-**BruNNo07/BruNNo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou buscando uma oportunidade na área de Desenvolvimento Web
+- 🌱 Estou estudando React.Js com a plataforma RocketSeat.
+- 👯 Estou Trabalhando como Freelancer e desenvolvendo aplicações ja utilizando React.js e Node.js
+- 📚 O que eu já aprendi:
+- HTML/CSS/JS
+- NodeJS/TypeScript
+- Swagger
+- SOLID
+- TailWildCSS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: Brunno.dallafg@gmail.com
